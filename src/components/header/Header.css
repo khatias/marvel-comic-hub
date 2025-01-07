@@ -52,5 +52,5 @@ li {
   cursor: pointer;
   font-weight: 700;
   text-transform: uppercase;
-  color: white;
+  /* color: white; */
 }
